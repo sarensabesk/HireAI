@@ -189,4 +189,10 @@ npm run dev
 - Maximum file size: 10MB
 - The AI uses Google's Gemini 2.5 Flash model for all analysis
 
+## Credits
+
+- Saren Sabeskaran
+- Ramneek Nagi
+- Gaurav Daware
+
 
